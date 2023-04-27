@@ -1,0 +1,34 @@
+.projectContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(43, 85, 158);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+
+.projectCard {
+    border: 2px;
+    border-radius: 1rem;
+    background-color: var(--mainColor);
+	color: var(--textColor);
+    margin: 20px;
+    height: 300px;
+    width: 400px;
+}
+
+.projectCard :hover {
+    background-color: rgb(162, 190, 238);
+}
+
+.projectHeader {
+    display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 2rem;
+	background-color: var(--mainColor);
+	color: var(--textColor);
+    border-radius: 2rem;
+}

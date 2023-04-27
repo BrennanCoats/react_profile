@@ -1,0 +1,52 @@
+.contactSection {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 50px;
+    background-image: url(./../assets/profilePic1.jpg);
+    height: 900px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contactContainer {
+    top: 50px;
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    padding: 2%;
+    
+    
+}
+
+.contactHeader{
+    display: flex;
+	align-items: center;
+	justify-content: space-between;
+	height: 50px;
+	padding: 0 2rem;
+	background-color: var(--mainColor);
+	color: var(--textColor);
+    border-radius: 2rem;
+    margin-bottom: 20px;
+}
+
+#emailBox {
+    height: 30px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+#nameBox{
+    height: 20px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+#messageBox{
+    height: 100px;
+    width: 400px;
+    margin-bottom: 20px;
+}

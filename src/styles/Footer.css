@@ -1,0 +1,24 @@
+/* .footer {
+    display: flex;
+	align-items: center;
+	justify-content: space-between;
+	height: 80px;
+	padding: 0 2rem;
+	background-color: var(--mainColor);
+	color: white;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+	margin: 0;
+}
+
+.icons {
+    margin: 15px;
+    padding: 15px;
+}
+
+.iconBtn {
+    margin: 10px;
+} */

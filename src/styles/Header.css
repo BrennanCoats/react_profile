@@ -1,0 +1,39 @@
+.header {
+    background: #3da1db;
+    height: 500px;
+    padding: 15px;
+    background-image: url("./../assets/profilePic2.jpg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  
+  .header h1 {
+    margin: 0;
+    padding-top: 250px;
+    text-align: right;
+    padding-right: 200px;
+    color: rgb(255, 255, 255);
+    font-size: 3rem;
+    text-shadow: -1px 1px 10px rgba(0, 0, 0, 0.75)
+  }
+  
+  #profilePic {
+    height: 350px;
+ }
+
+ .navBar {
+  margin: 0;
+    padding-top: 25px;
+    text-align: right;
+    padding-right: 185px;
+    color: rgb(255, 255, 255);
+    font-size: 3rem;
+    text-shadow: -1px 1px 10px rgba(0, 0, 0, 0.75)
+ }
+ 
+ .navBtn {
+  margin: 10px;
+  
+ }

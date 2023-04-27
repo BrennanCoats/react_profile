@@ -1,0 +1,35 @@
+
+    .cardContainer {
+      margin: 0;
+      background-color: #3da1db;
+      background-image: url(../assets/profilePic2.jpg);
+      height: 900px;
+      background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+    }
+
+    .cardTitle {
+      background-color:  #3da1db;
+      color: white;
+      padding:  20px;
+      position: absolute;
+      right: 10%;
+      top: 15%;
+      padding: 1%;
+      height: 300px;
+      width: 500px;
+      border-radius: 2rem;
+    }
+
+    .card {
+    position: absolute;
+      right: 10%;
+      top: 25%;
+      padding: 2%;
+      height: 300px;
+      width: 500px;
+      border-radius: 5rem;
+      color: white;
+    }
